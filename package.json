@@ -1,14 +1,15 @@
 {
-  "name": "quiz_node_project_08",
-  "version": "1.0.0",
+  "name": "quiz-node-projects-08",
+  "version": "1.1.1",
   "description": "",
   "main": "index.js",
   "type": "module",
+  "bin": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "keywords": [],
-  "author": "",
+  "author": "madiha",
   "license": "ISC",
   "devDependencies": {
     "@types/inquirer": "^9.0.7",
